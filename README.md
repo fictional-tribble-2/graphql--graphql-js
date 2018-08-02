@@ -4,7 +4,7 @@ The JavaScript reference implementation for GraphQL, a query language for APIs c
 
 [![npm version](https://badge.fury.io/js/graphql.svg)](http://badge.fury.io/js/graphql)
 [![Build Status](https://travis-ci.org/graphql/graphql-js.svg?branch=master)](https://travis-ci.org/graphql/graphql-js?branch=master)
-[![Coverage Status](https://coveralls.io/repos/graphql/graphql-js/badge.svg?branch=master)](https://coveralls.io/r/graphql/graphql-js?branch=master)
+[![Coverage Status](https://coveralls.io/repos/graphql/graphql-js/badge.svg?branch=master)](https://coveralls.io/r/graphql/graphql-js?branch=master) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/graphql--graphql-js.svg)](https://www.staging.guardrails.io)
 
 See more complete documentation at http://graphql.org/ and
 http://graphql.org/graphql-js/.
